@@ -1,0 +1,5 @@
+A Process Control Block (PCB) is used by the operating system to manage information about a process. The process control keeps track of crucial data needed to manage processes efficiently. A process control block (PCB) contains information about the process, i.e. registers, quantum, priority, etc. The process table is an array of PCBs, which logically contains a PCB for all of the current processes in the system. In this article, we will discuss every point about the Process Control Block.
+
+## What is a Process Control Block(PCB)?
+
+****A Process Control Block (PCB)**** is a data structure that is used by an Operating System to manage and regulate how processes are carried out. In operating systems, managing the process and scheduling them properly play the most significant role in the efficient usage of memory and other system resources. In the process control block, all the details regarding the process corresponding to it like its current status, its program counter, its memory use, its open files, and details about [CPU scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) are stored.

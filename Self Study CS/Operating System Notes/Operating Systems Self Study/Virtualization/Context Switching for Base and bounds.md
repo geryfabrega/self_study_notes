@@ -1,0 +1,1 @@
+Since there is only one base and bounds register per CPU, when the CPU context switches for a seperate process, it must unload and reload the new process to run with the approaching [[Base and Bounds]] register values. Remember, every periodic interval the OS regains control from a thread, context switchs, does some OS management, and passes back for another thread to run.

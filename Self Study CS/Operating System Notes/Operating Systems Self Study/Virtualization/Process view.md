@@ -1,0 +1,1 @@
+![[Pasted image 20250316222735.png]]In this exmaple we see a [[Address Space]] however from a more zoomed out view.

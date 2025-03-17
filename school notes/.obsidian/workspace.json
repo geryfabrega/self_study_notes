@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "880d93f779d0dd31",
+        "id": "fbcda0cc52cde208",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2ef43a80110b61",
+            "id": "a90305103b5fb23e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b2ef43a80110b61",
+  "active": "c2f54945d18609e0",
   "lastOpenFiles": [
     "Palantir login.md",
     "Pasted image 20240417083900.png",

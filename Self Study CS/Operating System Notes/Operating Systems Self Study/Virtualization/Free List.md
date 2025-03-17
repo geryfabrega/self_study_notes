@@ -1,0 +1,1 @@
+Data structure OS uses to track parts of memory that are not in use.

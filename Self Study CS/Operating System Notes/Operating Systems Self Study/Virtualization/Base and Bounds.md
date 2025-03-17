@@ -1,0 +1,1 @@
+Registers on the hardware/ chip that contain where a process starts and its bound, the boundary defines the address space size for the process.

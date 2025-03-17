@@ -1,0 +1,1 @@
+The [[Base and Bounds]] can lead to wasted space. This is due to memory within a [[Address Space]] thats allocated to not be fully used. Please refer to [[Segmentation]] to understand how this can be defragmented.
