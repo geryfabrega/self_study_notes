@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "143baa96055537a9",
+        "id": "8f592c4b7bbbd31a",
         "type": "tabs",
         "children": [
           {
-            "id": "ba3caa4636d52e93",
+            "id": "ae1afd34e2a1ac63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Threads share the same Data"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Threads share the same Data"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Threads share the same Data"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Threads share the same Data"
+              "title": "Outline"
             }
           }
         ]
@@ -168,11 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba3caa4636d52e93",
+  "active": "ae1afd34e2a1ac63",
   "lastOpenFiles": [
+    "Operating Systems Self Study/Concurrency/atomicity.md",
+    "Operating Systems Self Study/Concurrency/Mutual Exclusion.md",
+    "Operating Systems Self Study/Concurrency/critical Section.md",
+    "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
     "Pasted image 20250316233313.png",
     "Welcome.md",
-    "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
     "Proccess Control Block.md",
     "Operating Systems Self Study/Concurrency/Program Counters.md",
     "Operating Systems Self Study/Virtualization/Wasted Space.md",
@@ -201,8 +197,6 @@
     "Operating Systems Self Study/Virtualization/Mutli-Level Page Tables.md",
     "Untitled.md",
     "Leetcode Questions",
-    "Operating Systems Self Study",
-    "Memmory Management.md",
-    "create a link.md"
+    "Operating Systems Self Study"
   ]
 }

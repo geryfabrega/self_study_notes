@@ -1,0 +1,1 @@
+If one thread interacting with a particular resource, no other thread can as well

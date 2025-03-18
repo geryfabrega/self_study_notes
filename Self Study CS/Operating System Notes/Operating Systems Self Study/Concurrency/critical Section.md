@@ -1,0 +1,1 @@
+A piece of code that accesses a shared variable (or resource)
