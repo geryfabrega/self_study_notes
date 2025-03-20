@@ -11,10 +11,14 @@
             "id": "ae1afd34e2a1ac63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems Self Study/Virtualization/logical Segment.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "logical Segment"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6c2433aab41eaea6",
@@ -163,18 +167,29 @@
   },
   "active": "ae1afd34e2a1ac63",
   "lastOpenFiles": [
+    "Operating Systems Self Study/Virtualization/Address Translation.md",
+    "Operating Systems Self Study/Virtualization/logical Segment.md",
+    "Operating Systems Self Study/Virtualization/Segmentation.md",
+    "Leetcode Questions/Topological Sort.md",
+    "Operating Systems Self Study/Virtualization/Segmentatiob",
+    "Leetcode Questions/Concurrency Leetcode/Untitled.md",
+    "Concurrency A Primer",
+    "Operating Systems Self Study/Virtualization/Wasted Space.md",
+    "Operating Systems Self Study/Concurrency/Building a Lock.md",
+    "Leetcode Questions/Concurrency Leetcode",
+    "Operating Systems Self Study/Concurrency/Cond.md",
+    "Operating Systems Self Study/Concurrency/Mutex.md",
     "Operating Systems Self Study/Concurrency/atomicity.md",
-    "Operating Systems Self Study/Concurrency/Mutual Exclusion.md",
     "Operating Systems Self Study/Concurrency/critical Section.md",
+    "Operating Systems Self Study/Concurrency/Locks.md",
+    "Operating Systems Self Study/Concurrency/Untitled.md",
     "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
+    "Operating Systems Self Study/Concurrency/Mutual Exclusion.md",
     "Pasted image 20250316233313.png",
     "Welcome.md",
     "Proccess Control Block.md",
     "Operating Systems Self Study/Concurrency/Program Counters.md",
-    "Operating Systems Self Study/Virtualization/Wasted Space.md",
     "Operating Systems Self Study/Concurrency",
-    "Operating Systems Self Study/Virtualization/Untitled",
-    "Operating Systems Self Study/Virtualization/Segmentation.md",
     "Operating Systems Self Study/Virtualization/Untitled.md",
     "Operating Systems Self Study/Virtualization/MMU (Memory Management Unit).md",
     "Operating Systems Self Study/Virtualization/Dynamic Relocation at boot up.md",
@@ -183,19 +198,10 @@
     "Operating Systems Self Study/Virtualization/Trap Table.md",
     "Operating Systems Self Study/Virtualization/Context Switching for Base and bounds.md",
     "Operating Systems Self Study/Virtualization/Dynamic Relocation.md",
-    "Operating Systems Self Study/Virtualization/Address Translation.md",
     "Operating Systems Self Study/Virtualization/Base and Bounds.md",
-    "Operating Systems Self Study/Virtualization/Free List.md",
-    "Operating Systems Self Study/Virtualization/TLBs.md",
     "Operating Systems Self Study/Virtualization",
-    "Operating Systems Self Study/Virtualization/Process view.md",
     "Pasted image 20250316222735.png",
-    "Operating Systems Self Study/Virtualization/Address Space.md",
     "Pasted image 20250316222614.png",
-    "Untitled 1.md",
-    "Operating Systems Self Study/Virtualization/otool.md",
-    "Operating Systems Self Study/Virtualization/Mutli-Level Page Tables.md",
-    "Untitled.md",
     "Leetcode Questions",
     "Operating Systems Self Study"
   ]

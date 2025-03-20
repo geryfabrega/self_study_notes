@@ -1,0 +1,1 @@
+A continous portion of memory, can be of various sizes. 
