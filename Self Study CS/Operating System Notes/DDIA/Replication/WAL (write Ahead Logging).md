@@ -1,0 +1,2 @@
+When a master or primary database writes to a log before applying this log to its own disk. this is so replicas can write to their disk. This is not often used as it breaks easily and does not allow replicas to have different versions.
+See [[Statement Log]] and [[Row Based Replication]], which is the more often approach.

@@ -1,0 +1,1 @@
+replica DBs that consume  replica logs and then applies them to their data. This is some latency involved here. There is [[Statement Log]] and [[Replication Log]], which handle consuming primary writes.

@@ -1,0 +1,1 @@
+Sometimes You may want to write your own triggers to the [[Replication Log]]. This can be done with application code that can be written for your DB. that way you can make custom replictions rules from the primary to the replica. (this is more complex and often not used but can be for particular cases)
