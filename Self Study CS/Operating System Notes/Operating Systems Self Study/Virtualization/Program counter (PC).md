@@ -1,0 +1,1 @@
+Counter thats machine instrucitons, incremented as each instruction is executed. 
