@@ -2,3 +2,4 @@ So far we have been linearly allocating space, what about if we want to allocate
 
 The [[Base and Bounds]] registers alone are no enough to do this.
 
+See [[logical Segment]] as these make up the segments
