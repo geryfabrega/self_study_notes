@@ -1,1 +1,1 @@
-Addreses of system call handlers, this is set at boot up. Remember the trap functions? OS can call these interupts whenever it seems fit.
+Addreses of system call handlers, this is set at boot up. Remember the trap functions? OS can call these [[Interrupt Handler]] whenever it seems fit.

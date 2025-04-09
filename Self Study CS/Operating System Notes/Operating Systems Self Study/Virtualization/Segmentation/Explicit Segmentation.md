@@ -4,7 +4,7 @@ This way the portions of an [[Address Space]] are clearly defined and can quickl
 
 this as used the VAX/VMS System. 
 
-For instnace if you have four segments then you can represent this with 2 bits. In this example we need three segmentrs. Data, [[heap]] and [[stack]]
+For instnace if you have four segments then you can represent this with 2 bits. In this example we need three segmentrs. Data, [[heap]] and [[Operating Systems Self Study/Virtualization/Segmentation/Stack]]
 
 [[Base and Bounds]] is still used to locate address space, but with particular segments being mapped via the first 2 bits
 
