@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "f341321f94861d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1a214133a0b0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3781d1a8dcbff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work Notes/Management Service/FSMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FSMs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e268782fdd3ccdf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c43a2b6764b5f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3235efc94e0159",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d02d25e3584949ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc4e80bfc91fd9bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1cb601dec10c40d",
+    "type": "split",
+    "children": [
+      {
+        "id": "16345afc732f2daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7775711ae08171c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work Notes/Management Service/FSMs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FSMs"
+            }
+          },
+          {
+            "id": "83693e1bf70de83b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work Notes/Management Service/FSMs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FSMs"
+            }
+          },
+          {
+            "id": "f4af89bb87ca4bbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5d2617724e5c32e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work Notes/Management Service/FSMs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FSMs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b3781d1a8dcbff9",
+  "lastOpenFiles": [
+    "Pasted image 20250409113902.png",
+    "Work Notes/Management Service/MS (Management service).md",
+    "Work Notes/Management Service/FSMs.md",
+    "Work Notes/Management Service",
+    "Work Notes/Dsmsshell.md",
+    "Self Study CS/Operating System Notes/Untitled 1.md",
+    "Self Study CS/Operating System Notes/Pasted image 20250331104126.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250331104114.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250331103758.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250331103726.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250331103354.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250331090937.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250330010732.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250330005243.png",
+    "Self Study CS/Operating System Notes/Pasted image 20250330003728.png",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Trabl.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Segmentation/sbrk() system call.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Segmentation/Segment Table.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Segmentation/Free List Management.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Segmentation/External Fragmentation.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Segmentation/Compacting.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Segmentation/Coarse Grained Segmentation.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Internal Fragmentation.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Free-Space Management/Split.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Free-Space Management/Void Pointer.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Free-Space Management/Free List.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Free-Space Management/Coalescing Free Space.md",
+    "Self Study CS/Operating System Notes/Operating Systems Self Study/Virtualization/Free-Space Management",
+    "Self Study CS/Operating System Notes/OS Dev/Cross Compilier.md",
+    "Self Study CS/Operating System Notes/OS Dev",
+    "Self Study CS/Operating System Notes/Leetcode Questions/Stack Questions.md",
+    "Self Study CS/Operating System Notes/Leetcode Questions/Partition Labels.md",
+    "Self Study CS/Operating System Notes/Leetcode Questions/Merge Intervals.md",
+    "Self Study CS/Operating System Notes/Leetcode Questions/Intervals.md",
+    "Self Study CS/Operating System Notes/Leetcode Questions/Car Fleet (From Memory!!!!).md",
+    "Work Notes/HyperScale Cluster Subscriptions.md",
+    "Work Notes/DSMS Tools.md",
+    "Self Study CS/Operating System Notes/Welcome.md",
+    "Work Notes/d2utmpIuld8T",
+    "Work Notes/d2utmpHYwXI3",
+    "Untitled 1",
+    "Work Notes"
+  ]
+}
