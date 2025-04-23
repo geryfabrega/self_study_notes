@@ -10,3 +10,10 @@ Use the below insert query to insert the ImpactAssessmentMaturityLevel FS value 
 Remember, please set to Experimental When Testing Runners Auto Comms
 
 Remember,  this feature switch is set within HPDB
+
+Make sure to look up the monitor ID.
+Also specify is the runner is a data plane or control plane runner in the FS.
+
+
+TO DO:
+Check if the [[Auto Communication Evaluator]] and Alert Eval need any additional code changes or FS for it to check if any ICMs are enabled for Auto Comms.

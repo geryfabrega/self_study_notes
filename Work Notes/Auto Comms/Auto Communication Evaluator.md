@@ -18,3 +18,19 @@ Make a PR to
 
 Highside logs 
 "Trying to get Kusto Connection Configuration data from"
+
+
+When this Infra runner picks up an incident from HPDB, it also picks impact assessment logic. [[Custom ImpacetAssessment]] or [[Default Impact Assessment]]
+For the most part, the default impact assessment logic is just a kusto query of the impacted server and database.  The auto comms eval runners looks at all incidents in the [[HPDB Incidents Tables]]
+
+The Eval Runner then forms a [[Brain JSON Payload]] that BRAIN can accept.
+Brain accepts server signals. BRAIN can do correlations and notify customers and DRIs. It can also propose mitigations and diagnostics. 
+
+
+Brain will then update the impact chart in the ICM. Brian will populate the number of impacted resources. 
+
+What else does BRAIN do?
+
+It sends an outage notification of the outage in the outage portal. all customer will be notified of the outage  of all the effected resources.
+
+(How can we test the auto comm?)
