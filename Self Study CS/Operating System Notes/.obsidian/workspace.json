@@ -11,13 +11,60 @@
             "id": "5cae96cc772f9f78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode Questions/Permutation in String Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permutation in String Notes"
+            }
+          },
+          {
+            "id": "e53bcfa5544e2067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Auto Agent/OODA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OODA"
+            }
+          },
+          {
+            "id": "cadf36830674be38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode Questions/Draw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draw"
+            }
+          },
+          {
+            "id": "51cf7744f4f4d189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode Questions/Tree Traversal Notes/Notes on Tree Traversal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes on Tree Traversal"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -74,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 285.5
   },
   "right": {
     "id": "6c2433aab41eaea6",
@@ -153,61 +200,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5cae96cc772f9f78",
+  "active": "51cf7744f4f4d189",
   "lastOpenFiles": [
-    "Operating Systems Self Study/Virtualization/Segmentation/Explicit Segmentation.md",
-    "Operating Systems Self Study/Virtualization/Free-Space Management/Void Pointer.md",
-    "Leetcode Questions/Merge Intervals.md",
-    "Leetcode Questions/Stack Questions.md",
-    "DDIA/Replication/Primary DB.md",
-    "DDIA/Replication/Replica DB.md",
-    "DDIA/Replication/Row Based Replication.md",
-    "DDIA/Replication/Read your own Writes.md",
-    "Operating Systems Self Study/Virtualization/Interrupt Timer.md",
+    "Leetcode Questions/Tree Traversal Notes/Notes on Tree Traversal.md",
+    "Leetcode Questions/Tree Traversal Notes",
+    "Excalidraw/Drawing 2025-12-09 11.18.25.excalidraw.md",
+    "Leetcode Questions/Draw.md",
+    "Excalidraw/Drawing 2025-12-08 23.48.44.excalidraw.md",
+    "Cyber Auto Agent/Notes from Cyber Auto Agent.md",
+    "Cyber Auto Agent/XBOW BenchMark.md",
+    "Leetcode Questions/Permutation in String Notes.md",
+    "Cyber Auto Agent/OODA.md",
+    "Proccess Control Block.md",
+    "Cyber Auto Agent",
+    "Welcome.md",
+    "Wedding note Due out.md",
+    "Eventual Consistancy.md",
+    "Preffered settlement.md",
+    "Excalidraw/Drawing 2025-11-20 22.59.40.excalidraw.md",
+    "OS Dev/Cross Compilier.md",
+    "Foundations of Software Engineering/Test Cases Module/Testing Principles.md",
+    "Excalidraw/Drawing 2025-11-18 21.05.57.excalidraw.md",
+    "Leetcode Questions/Untitled.md",
+    "Excalidraw/Drawing 2025-11-18 20.59.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-18 20.55.57.excalidraw.md",
+    "Excalidraw/DB Demonstration.md",
+    "Excalidraw/Drawing 2025-11-16 20.49.58.excalidw.md",
+    "Excalidraw/Drawing 2025-11-16 20.49.03.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-16 20.45.43.excalidraw.md",
+    "Excalidraw",
     "Operating Systems Self Study/Virtualization/Internal Fragmentation.md",
-    "Operating Systems Self Study/Virtualization/Dynamic Relocation at boot up.md",
-    "Operating Systems Self Study/Virtualization/Address Translation.md",
-    "Operating Systems Self Study/Virtualization/Base and Bounds.md",
-    "Operating Systems Self Study/Virtualization/Free-Space Management/Coalescing Free Space.md",
+    "DDIA/Replication/Replica DB.md",
+    "Learning C++ Journey/Chapter 1",
+    "Learning C++ Journey",
+    "Untitled 3",
+    "75th IC Notes/FY 25 AI",
+    "Untitled 2",
+    "75th IC Notes",
+    "Foundations of Software Engineering/Test Cases Module",
     "Pasted image 20250331104126.png",
     "Pasted image 20250331104114.png",
-    "Operating Systems Self Study/Virtualization/Free-Space Management/Split.md",
     "Pasted image 20250331103758.png",
     "Pasted image 20250331103726.png",
-    "Operating Systems Self Study/Virtualization/Free-Space Management/Free List.md",
     "Pasted image 20250331103354.png",
-    "Operating Systems Self Study/Virtualization/Segmentation/Free List Management.md",
-    "Operating Systems Self Study/Virtualization/Free-Space Management",
-    "Untitled 1",
-    "Operating Systems Self Study/Virtualization/Dynamic Relocation.md",
-    "Untitled 1.md",
-    "Operating Systems Self Study/Virtualization/Segmentation/Stack.md",
-    "Operating Systems Self Study/Concurrency/Threads share the same Data.md",
-    "Leetcode Questions/Car Fleet (From Memory!!!!).md",
-    "Leetcode Questions/Intervals.md",
-    "Operating Systems Self Study/Concurrency/Building a Lock.md",
-    "Operating Systems Self Study/Virtualization/Segmentation/Implicit Segmentation.md",
-    "Operating Systems Self Study/Virtualization/Segmentation/External Fragmentation.md",
     "Pasted image 20250331090937.png",
     "Pasted image 20250330010732.png",
     "Pasted image 20250330005243.png",
     "Pasted image 20250330003728.png",
-    "OS Dev",
-    "Pasted image 20250324231613.png",
-    "DDIA/Replication",
-    "Untitled/Untitled",
-    "Untitled",
-    "DDIA",
-    "Operating Systems Self Study/Virtualization/Segmentation",
-    "Concurrency A Primer",
-    "Leetcode Questions/Concurrency Leetcode"
+    "Pasted image 20250324231613.png"
   ]
 }
